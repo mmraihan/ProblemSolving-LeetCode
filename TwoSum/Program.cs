@@ -10,10 +10,6 @@ namespace TwoSum
             Console.WriteLine($"[{output[0]}, {output[1]}]");
         }
 
-
-
-
-
         public static int[] TwoSum(int[] nums, int target)
         {
 
