@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csproj", "{165FD193-78E7-4B15-BC7A-F8A8D9ED5479}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseInteger", "ReverseInteger\ReverseInteger.csproj", "{D1CAA319-6C08-409C-BE53-B1823AF79AAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseInteger", "ReverseInteger\ReverseInteger.csproj", "{D1CAA319-6C08-409C-BE53-B1823AF79AAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenAndOdd", "EvenAndOdd\EvenAndOdd.csproj", "{40EE27AC-F284-4433-A92F-AB163A6AA51B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D1CAA319-6C08-409C-BE53-B1823AF79AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1CAA319-6C08-409C-BE53-B1823AF79AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1CAA319-6C08-409C-BE53-B1823AF79AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40EE27AC-F284-4433-A92F-AB163A6AA51B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40EE27AC-F284-4433-A92F-AB163A6AA51B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40EE27AC-F284-4433-A92F-AB163A6AA51B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40EE27AC-F284-4433-A92F-AB163A6AA51B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
