@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactorialNumber", "Factoria
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindingVowelUsingNestedLoop", "FindingVowelUsingNestedLoop\FindingVowelUsingNestedLoop.csproj", "{B7C22B4A-B6AB-4D02-BC04-8922FFB4F1C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseNumbers", "ReverseNumbers\ReverseNumbers.csproj", "{428C7471-477E-41D3-8BBF-5BECC5AFE534}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseNumbers", "ReverseNumbers\ReverseNumbers.csproj", "{428C7471-477E-41D3-8BBF-5BECC5AFE534}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{B4D22834-679F-4914-BAFF-6A0A7E0C7CFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{428C7471-477E-41D3-8BBF-5BECC5AFE534}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{428C7471-477E-41D3-8BBF-5BECC5AFE534}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{428C7471-477E-41D3-8BBF-5BECC5AFE534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4D22834-679F-4914-BAFF-6A0A7E0C7CFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D22834-679F-4914-BAFF-6A0A7E0C7CFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D22834-679F-4914-BAFF-6A0A7E0C7CFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D22834-679F-4914-BAFF-6A0A7E0C7CFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
