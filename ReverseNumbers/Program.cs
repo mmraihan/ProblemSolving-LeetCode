@@ -6,15 +6,15 @@ namespace ReverseNumbers
     {
     static void Main(string[] args)
         {
-            var result = FindReverseNumber(12345678903);
+            var result = FindReverseNumber(1234);
             Console.WriteLine("Reverse Number: " +result);
         }
 
-        public static int FindReverseNumber(long num)
+        public static int FindReverseNumber(int num)
         {
            
-            long result = 0;
-            long reminder;
+            int result = 0;
+            int reminder;
 
             while (num != 0)
             {
@@ -22,16 +22,8 @@ namespace ReverseNumbers
                 result = result * 10 + reminder;
                 num = num / 10;
             }
-
-            try
-            {
-                string a = result.ToString();
-                return int.Parse(a);
-            }
-            catch (Exception)
-            {
-                return 0;              
-            }
+            return result;
+            
         }
     }
 }
