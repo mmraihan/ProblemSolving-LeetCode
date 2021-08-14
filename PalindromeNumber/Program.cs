@@ -21,7 +21,7 @@ namespace PalindromeNumber
             number = temp;
             if (result == number)
             {
-                Console.WriteLine("It's a Palindrome Number  ");
+                Console.WriteLine("It's a Palindrome Number");
             }
             else
             {
