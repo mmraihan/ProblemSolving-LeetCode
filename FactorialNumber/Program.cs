@@ -11,8 +11,7 @@ namespace FactorialNumber
 
             for (int i = 1; i <=num; i++)
             {
-                fact *= i;
-                
+                fact *= i;               
             }
             Console.WriteLine(fact);
 
