@@ -1,0 +1,16 @@
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\CelsiusToFarenheit\bin\Debug\net5.0\CelsiusToFarenheit.exe
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\CelsiusToFarenheit\bin\Debug\net5.0\CelsiusToFarenheit.deps.json
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\CelsiusToFarenheit\bin\Debug\net5.0\CelsiusToFarenheit.runtimeconfig.json
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\CelsiusToFarenheit\bin\Debug\net5.0\CelsiusToFarenheit.runtimeconfig.dev.json
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\CelsiusToFarenheit\bin\Debug\net5.0\CelsiusToFarenheit.dll
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\CelsiusToFarenheit\bin\Debug\net5.0\ref\CelsiusToFarenheit.dll
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\CelsiusToFarenheit\bin\Debug\net5.0\CelsiusToFarenheit.pdb
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\CelsiusToFarenheit\obj\Debug\net5.0\CelsiusToFarenheit.csproj.AssemblyReference.cache
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\CelsiusToFarenheit\obj\Debug\net5.0\CelsiusToFarenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\CelsiusToFarenheit\obj\Debug\net5.0\CelsiusToFarenheit.AssemblyInfoInputs.cache
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\CelsiusToFarenheit\obj\Debug\net5.0\CelsiusToFarenheit.AssemblyInfo.cs
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\CelsiusToFarenheit\obj\Debug\net5.0\CelsiusToFarenheit.csproj.CoreCompileInputs.cache
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\CelsiusToFarenheit\obj\Debug\net5.0\CelsiusToFarenheit.dll
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\CelsiusToFarenheit\obj\Debug\net5.0\ref\CelsiusToFarenheit.dll
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\CelsiusToFarenheit\obj\Debug\net5.0\CelsiusToFarenheit.pdb
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\CelsiusToFarenheit\obj\Debug\net5.0\CelsiusToFarenheit.genruntimeconfig.cache

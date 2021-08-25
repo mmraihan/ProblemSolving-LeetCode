@@ -1,0 +1,15 @@
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\2. CelsiusToFarenheit\bin\Debug\net5.0\2. CelsiusToFarenheit.exe
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\2. CelsiusToFarenheit\bin\Debug\net5.0\2. CelsiusToFarenheit.deps.json
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\2. CelsiusToFarenheit\bin\Debug\net5.0\2. CelsiusToFarenheit.runtimeconfig.json
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\2. CelsiusToFarenheit\bin\Debug\net5.0\2. CelsiusToFarenheit.runtimeconfig.dev.json
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\2. CelsiusToFarenheit\bin\Debug\net5.0\2. CelsiusToFarenheit.dll
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\2. CelsiusToFarenheit\bin\Debug\net5.0\ref\2. CelsiusToFarenheit.dll
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\2. CelsiusToFarenheit\bin\Debug\net5.0\2. CelsiusToFarenheit.pdb
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\2. CelsiusToFarenheit\obj\Debug\net5.0\2. CelsiusToFarenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\2. CelsiusToFarenheit\obj\Debug\net5.0\2. CelsiusToFarenheit.AssemblyInfoInputs.cache
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\2. CelsiusToFarenheit\obj\Debug\net5.0\2. CelsiusToFarenheit.AssemblyInfo.cs
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\2. CelsiusToFarenheit\obj\Debug\net5.0\2. CelsiusToFarenheit.csproj.CoreCompileInputs.cache
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\2. CelsiusToFarenheit\obj\Debug\net5.0\2. CelsiusToFarenheit.dll
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\2. CelsiusToFarenheit\obj\Debug\net5.0\ref\2. CelsiusToFarenheit.dll
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\2. CelsiusToFarenheit\obj\Debug\net5.0\2. CelsiusToFarenheit.pdb
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\2. CelsiusToFarenheit\obj\Debug\net5.0\2. CelsiusToFarenheit.genruntimeconfig.cache
