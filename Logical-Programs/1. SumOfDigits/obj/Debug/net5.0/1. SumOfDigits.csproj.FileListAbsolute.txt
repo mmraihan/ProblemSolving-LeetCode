@@ -1,0 +1,16 @@
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\1. SumOfDigits\bin\Debug\net5.0\1. SumOfDigits.exe
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\1. SumOfDigits\bin\Debug\net5.0\1. SumOfDigits.deps.json
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\1. SumOfDigits\bin\Debug\net5.0\1. SumOfDigits.runtimeconfig.json
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\1. SumOfDigits\bin\Debug\net5.0\1. SumOfDigits.runtimeconfig.dev.json
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\1. SumOfDigits\bin\Debug\net5.0\1. SumOfDigits.dll
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\1. SumOfDigits\bin\Debug\net5.0\ref\1. SumOfDigits.dll
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\1. SumOfDigits\bin\Debug\net5.0\1. SumOfDigits.pdb
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\1. SumOfDigits\obj\Debug\net5.0\1. SumOfDigits.csproj.AssemblyReference.cache
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\1. SumOfDigits\obj\Debug\net5.0\1. SumOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\1. SumOfDigits\obj\Debug\net5.0\1. SumOfDigits.AssemblyInfoInputs.cache
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\1. SumOfDigits\obj\Debug\net5.0\1. SumOfDigits.AssemblyInfo.cs
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\1. SumOfDigits\obj\Debug\net5.0\1. SumOfDigits.csproj.CoreCompileInputs.cache
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\1. SumOfDigits\obj\Debug\net5.0\1. SumOfDigits.dll
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\1. SumOfDigits\obj\Debug\net5.0\ref\1. SumOfDigits.dll
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\1. SumOfDigits\obj\Debug\net5.0\1. SumOfDigits.pdb
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\1. SumOfDigits\obj\Debug\net5.0\1. SumOfDigits.genruntimeconfig.cache
