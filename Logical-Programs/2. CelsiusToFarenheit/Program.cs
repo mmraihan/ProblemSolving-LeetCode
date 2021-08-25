@@ -6,13 +6,16 @@ namespace _2._CelsiusToFarenheit
     {
         static void Main(string[] args)
         {
-            CelsiusToFarenheit celsius = new CelsiusToFarenheit();
+            
             Console.WriteLine("Eneter the Celsius Value");
 
             double celToFare = double.Parse( Console.ReadLine());
 
+            CelsiusToFarenheit celsius = new CelsiusToFarenheit();
+
             var result= celsius.ConvertCelToFaren(celToFare);
             Console.WriteLine($"{celToFare} Degree Farenheit = {result} Degree Celsius");
+
             Console.ReadKey();
 
         }

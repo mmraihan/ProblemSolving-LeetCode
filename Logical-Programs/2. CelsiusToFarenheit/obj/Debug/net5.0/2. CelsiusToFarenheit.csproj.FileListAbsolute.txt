@@ -13,3 +13,4 @@ C:\Development\LeetCode-ProblemSolving\Logical-Programs\2. CelsiusToFarenheit\ob
 C:\Development\LeetCode-ProblemSolving\Logical-Programs\2. CelsiusToFarenheit\obj\Debug\net5.0\ref\2. CelsiusToFarenheit.dll
 C:\Development\LeetCode-ProblemSolving\Logical-Programs\2. CelsiusToFarenheit\obj\Debug\net5.0\2. CelsiusToFarenheit.pdb
 C:\Development\LeetCode-ProblemSolving\Logical-Programs\2. CelsiusToFarenheit\obj\Debug\net5.0\2. CelsiusToFarenheit.genruntimeconfig.cache
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\2. CelsiusToFarenheit\obj\Debug\net5.0\2. CelsiusToFarenheit.csproj.AssemblyReference.cache

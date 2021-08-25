@@ -1,0 +1,16 @@
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\3. MultiplicationTable\bin\Debug\net5.0\3. MultiplicationTable.exe
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\3. MultiplicationTable\bin\Debug\net5.0\3. MultiplicationTable.deps.json
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\3. MultiplicationTable\bin\Debug\net5.0\3. MultiplicationTable.runtimeconfig.json
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\3. MultiplicationTable\bin\Debug\net5.0\3. MultiplicationTable.runtimeconfig.dev.json
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\3. MultiplicationTable\bin\Debug\net5.0\3. MultiplicationTable.dll
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\3. MultiplicationTable\bin\Debug\net5.0\ref\3. MultiplicationTable.dll
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\3. MultiplicationTable\bin\Debug\net5.0\3. MultiplicationTable.pdb
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\3. MultiplicationTable\obj\Debug\net5.0\3. MultiplicationTable.csproj.AssemblyReference.cache
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\3. MultiplicationTable\obj\Debug\net5.0\3. MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\3. MultiplicationTable\obj\Debug\net5.0\3. MultiplicationTable.AssemblyInfoInputs.cache
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\3. MultiplicationTable\obj\Debug\net5.0\3. MultiplicationTable.AssemblyInfo.cs
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\3. MultiplicationTable\obj\Debug\net5.0\3. MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\3. MultiplicationTable\obj\Debug\net5.0\3. MultiplicationTable.dll
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\3. MultiplicationTable\obj\Debug\net5.0\ref\3. MultiplicationTable.dll
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\3. MultiplicationTable\obj\Debug\net5.0\3. MultiplicationTable.pdb
+C:\Development\LeetCode-ProblemSolving\Logical-Programs\3. MultiplicationTable\obj\Debug\net5.0\3. MultiplicationTable.genruntimeconfig.cache

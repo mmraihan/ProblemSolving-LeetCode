@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. SumOfDigits", "1. SumOfD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. CelsiusToFarenheit", "2. CelsiusToFarenheit\2. CelsiusToFarenheit.csproj", "{5CCF3BEA-0AAC-415B-879C-BC25F02F3261}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. MultiplicationTable", "3. MultiplicationTable\3. MultiplicationTable.csproj", "{06ACCE3D-B37E-4EB0-A246-7F310D3E2229}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5CCF3BEA-0AAC-415B-879C-BC25F02F3261}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CCF3BEA-0AAC-415B-879C-BC25F02F3261}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CCF3BEA-0AAC-415B-879C-BC25F02F3261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06ACCE3D-B37E-4EB0-A246-7F310D3E2229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06ACCE3D-B37E-4EB0-A246-7F310D3E2229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06ACCE3D-B37E-4EB0-A246-7F310D3E2229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06ACCE3D-B37E-4EB0-A246-7F310D3E2229}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
