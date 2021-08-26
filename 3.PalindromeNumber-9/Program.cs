@@ -1,18 +1,18 @@
 ﻿using System;
 
-namespace PalindromeNumber
+namespace _3.PalindromeNumber_9
 {
     class Program
     {
         static void Main(string[] args)
         {
-            var result =IsPalindrome(-121);
+            var result = IsPalindrome(-121);
             Console.WriteLine(result);
 
         }
         public static bool IsPalindrome(int x)
         {
-            if (x<0 || x!=0 && x%10==0)
+            if (x < 0 || x != 0 && x % 10 == 0)
             {
                 return false;
             }
