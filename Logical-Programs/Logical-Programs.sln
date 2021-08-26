@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. SumOfDigits", "1. SumOfDigits\1. SumOfDigits.csproj", "{F2640E2B-8CF1-4D13-B5F6-6D1E7902DA52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. CelsiusToFarenheit", "2. CelsiusToFarenheit\2. CelsiusToFarenheit.csproj", "{5CCF3BEA-0AAC-415B-879C-BC25F02F3261}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. CelsiusToFarenheit", "2. CelsiusToFarenheit\2. CelsiusToFarenheit.csproj", "{5CCF3BEA-0AAC-415B-879C-BC25F02F3261}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. MultiplicationTable", "3. MultiplicationTable\3. MultiplicationTable.csproj", "{06ACCE3D-B37E-4EB0-A246-7F310D3E2229}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. MultiplicationTable", "3. MultiplicationTable\3. MultiplicationTable.csproj", "{06ACCE3D-B37E-4EB0-A246-7F310D3E2229}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. MultiplicationTableWithRange", "4. MultiplicationTableWithRange\4. MultiplicationTableWithRange.csproj", "{622BDAC2-647B-49FA-9D30-4208A29FEB23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. MultiplicationTableWithRange", "4. MultiplicationTableWithRange\4. MultiplicationTableWithRange.csproj", "{622BDAC2-647B-49FA-9D30-4208A29FEB23}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
