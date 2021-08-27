@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeNumber", "Palindr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArmstrongNumber", "ArmstrongNumber\ArmstrongNumber.csproj", "{BEA0F84F-A3B5-498A-B078-69E21CA18166}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.PalindromeNumber-9", "3.PalindromeNumber-9\3.PalindromeNumber-9.csproj", "{5ACD53E9-575D-453F-8C1A-9DD86F705147}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.PalindromeNumber-9", "3.PalindromeNumber-9\3.PalindromeNumber-9.csproj", "{5ACD53E9-575D-453F-8C1A-9DD86F705147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.LongestCommonPrefix", "4.LongestCommonPrefix\4.LongestCommonPrefix.csproj", "{B04FF935-87C1-43B5-B052-67FD4C50121C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{5ACD53E9-575D-453F-8C1A-9DD86F705147}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5ACD53E9-575D-453F-8C1A-9DD86F705147}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5ACD53E9-575D-453F-8C1A-9DD86F705147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B04FF935-87C1-43B5-B052-67FD4C50121C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04FF935-87C1-43B5-B052-67FD4C50121C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B04FF935-87C1-43B5-B052-67FD4C50121C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B04FF935-87C1-43B5-B052-67FD4C50121C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
