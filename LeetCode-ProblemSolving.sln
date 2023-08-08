@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. LongestCommonPrefix", "4
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.  ValidParentheses", "5.  ValidParentheses\5.  ValidParentheses.csproj", "{B695D75C-0407-49C3-BD87-A9838494409A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove-DupllicateValue", "Remove-DupllicateValue\Remove-DupllicateValue.csproj", "{A2911808-B010-4CEC-BC3C-60D58C0C6261}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove-DupllicateValue", "Remove-DupllicateValue\Remove-DupllicateValue.csproj", "{A2911808-B010-4CEC-BC3C-60D58C0C6261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ReverseString\ReverseString.csproj", "{8099C6DD-6F42-4AD3-81A9-4D26C3BA7671}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{A2911808-B010-4CEC-BC3C-60D58C0C6261}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2911808-B010-4CEC-BC3C-60D58C0C6261}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2911808-B010-4CEC-BC3C-60D58C0C6261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8099C6DD-6F42-4AD3-81A9-4D26C3BA7671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8099C6DD-6F42-4AD3-81A9-4D26C3BA7671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8099C6DD-6F42-4AD3-81A9-4D26C3BA7671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8099C6DD-6F42-4AD3-81A9-4D26C3BA7671}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
