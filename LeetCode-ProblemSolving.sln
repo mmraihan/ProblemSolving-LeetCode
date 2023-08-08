@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31424.327
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csproj", "{165FD193-78E7-4B15-BC7A-F8A8D9ED5479}"
 EndProject
@@ -29,9 +29,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArmstrongNumber", "Armstron
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. PalindromeNumber-9", "3.PalindromeNumber-9\3. PalindromeNumber-9.csproj", "{5ACD53E9-575D-453F-8C1A-9DD86F705147}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. LongestCommonPrefix", "4.LongestCommonPrefix\4. LongestCommonPrefix.csproj", "{B04FF935-87C1-43B5-B052-67FD4C50121C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. LongestCommonPrefix", "4.LongestCommonPrefix\4. LongestCommonPrefix.csproj", "{B04FF935-87C1-43B5-B052-67FD4C50121C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.  ValidParentheses", "5.  ValidParentheses\5.  ValidParentheses.csproj", "{B695D75C-0407-49C3-BD87-A9838494409A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.  ValidParentheses", "5.  ValidParentheses\5.  ValidParentheses.csproj", "{B695D75C-0407-49C3-BD87-A9838494409A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove-DupllicateValue", "Remove-DupllicateValue\Remove-DupllicateValue.csproj", "{A2911808-B010-4CEC-BC3C-60D58C0C6261}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{B695D75C-0407-49C3-BD87-A9838494409A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B695D75C-0407-49C3-BD87-A9838494409A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B695D75C-0407-49C3-BD87-A9838494409A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2911808-B010-4CEC-BC3C-60D58C0C6261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2911808-B010-4CEC-BC3C-60D58C0C6261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2911808-B010-4CEC-BC3C-60D58C0C6261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2911808-B010-4CEC-BC3C-60D58C0C6261}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
