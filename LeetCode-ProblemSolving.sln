@@ -39,9 +39,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseString", "ReverseStr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareElement", "SquareElement\SquareElement.csproj", "{2F45D26E-05A2-49ED-825C-0EC29539B486}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boolean", "boolean\boolean.csproj", "{7591B217-6D6A-4528-8990-FAB92DA447F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "boolean", "boolean\boolean.csproj", "{7591B217-6D6A-4528-8990-FAB92DA447F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxMinValueInArray", "MaxMinValueInArray\MaxMinValueInArray.csproj", "{C1C75033-1F17-4F1D-98B2-CF12FF5615BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxMinValueInArray", "MaxMinValueInArray\MaxMinValueInArray.csproj", "{C1C75033-1F17-4F1D-98B2-CF12FF5615BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admission-Sample-Test-1", "Admission-Sample-Test-1\Admission-Sample-Test-1.csproj", "{9E4869FF-371D-4E6F-ADD7-25DD732EF39F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{C1C75033-1F17-4F1D-98B2-CF12FF5615BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1C75033-1F17-4F1D-98B2-CF12FF5615BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1C75033-1F17-4F1D-98B2-CF12FF5615BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E4869FF-371D-4E6F-ADD7-25DD732EF39F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E4869FF-371D-4E6F-ADD7-25DD732EF39F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E4869FF-371D-4E6F-ADD7-25DD732EF39F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E4869FF-371D-4E6F-ADD7-25DD732EF39F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
