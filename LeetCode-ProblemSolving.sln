@@ -43,7 +43,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "boolean", "boolean\boolean.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxMinValueInArray", "MaxMinValueInArray\MaxMinValueInArray.csproj", "{C1C75033-1F17-4F1D-98B2-CF12FF5615BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admission-Sample-Test-1", "Admission-Sample-Test-1\Admission-Sample-Test-1.csproj", "{9E4869FF-371D-4E6F-ADD7-25DD732EF39F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Admission-Sample-Test-1", "Admission-Sample-Test-1\Admission-Sample-Test-1.csproj", "{9E4869FF-371D-4E6F-ADD7-25DD732EF39F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admission-Sample-Test-2", "Admission-Sample-Test-2\Admission-Sample-Test-2.csproj", "{EC7DB424-DC2E-4FCE-A20A-396902BAAE82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{9E4869FF-371D-4E6F-ADD7-25DD732EF39F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E4869FF-371D-4E6F-ADD7-25DD732EF39F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E4869FF-371D-4E6F-ADD7-25DD732EF39F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC7DB424-DC2E-4FCE-A20A-396902BAAE82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC7DB424-DC2E-4FCE-A20A-396902BAAE82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC7DB424-DC2E-4FCE-A20A-396902BAAE82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC7DB424-DC2E-4FCE-A20A-396902BAAE82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
