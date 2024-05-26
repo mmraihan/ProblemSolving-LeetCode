@@ -45,11 +45,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxMinValueInArray", "MaxMi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Admission-Sample-Test-1", "Admission-Sample-Test-1\Admission-Sample-Test-1.csproj", "{9E4869FF-371D-4E6F-ADD7-25DD732EF39F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admission-Sample-Test-2", "Admission-Sample-Test-2\Admission-Sample-Test-2.csproj", "{EC7DB424-DC2E-4FCE-A20A-396902BAAE82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Admission-Sample-Test-2", "Admission-Sample-Test-2\Admission-Sample-Test-2.csproj", "{EC7DB424-DC2E-4FCE-A20A-396902BAAE82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admission-Sample-Test-4", "Admission-Sample-Test-4\Admission-Sample-Test-4.csproj", "{2F2986E4-73BF-4665-B93D-99D2057A8F71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Admission-Sample-Test-4", "Admission-Sample-Test-4\Admission-Sample-Test-4.csproj", "{2F2986E4-73BF-4665-B93D-99D2057A8F71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admission-Sample-Test-5", "Admission-Sample-Test-5\Admission-Sample-Test-5.csproj", "{00C9179D-B51B-4F41-8C24-FBEE80D491F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Admission-Sample-Test-5", "Admission-Sample-Test-5\Admission-Sample-Test-5.csproj", "{00C9179D-B51B-4F41-8C24-FBEE80D491F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1768-Merge-Strings-Alternately", "1768-Merge-Strings-Alternately\1768-Merge-Strings-Alternately.csproj", "{5EF60F7C-BA49-43DA-98F3-CDF8AB1AAA5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{00C9179D-B51B-4F41-8C24-FBEE80D491F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00C9179D-B51B-4F41-8C24-FBEE80D491F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00C9179D-B51B-4F41-8C24-FBEE80D491F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EF60F7C-BA49-43DA-98F3-CDF8AB1AAA5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF60F7C-BA49-43DA-98F3-CDF8AB1AAA5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF60F7C-BA49-43DA-98F3-CDF8AB1AAA5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF60F7C-BA49-43DA-98F3-CDF8AB1AAA5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
