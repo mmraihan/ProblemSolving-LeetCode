@@ -51,9 +51,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Admission-Sample-Test-4", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Admission-Sample-Test-5", "Admission-Sample-Test-5\Admission-Sample-Test-5.csproj", "{00C9179D-B51B-4F41-8C24-FBEE80D491F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1768-Merge-Strings-Alternately", "1768-Merge-Strings-Alternately\1768-Merge-Strings-Alternately.csproj", "{5EF60F7C-BA49-43DA-98F3-CDF8AB1AAA5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1768-Merge-Strings-Alternately", "1768-Merge-Strings-Alternately\1768-Merge-Strings-Alternately.csproj", "{5EF60F7C-BA49-43DA-98F3-CDF8AB1AAA5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1071-Greatest-Common-DivisorOfStrings", "1071-Greatest-Common-DivisorOfStrings\1071-Greatest-Common-DivisorOfStrings.csproj", "{C87D31B5-AC85-4680-9869-45AF22035157}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1071-Greatest-Common-DivisorOfStrings", "1071-Greatest-Common-DivisorOfStrings\1071-Greatest-Common-DivisorOfStrings.csproj", "{C87D31B5-AC85-4680-9869-45AF22035157}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1431-Kids", "1431-Kids\1431-Kids.csproj", "{9DBDEE32-DAA4-478E-8FCB-BF3FC5DE7E9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "605-Can-Place-Flowers", "605-Can-Place-Flowers\605-Can-Place-Flowers.csproj", "{2DB5B320-2E4A-4B2F-8700-BC55DA079F70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +169,14 @@ Global
 		{C87D31B5-AC85-4680-9869-45AF22035157}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C87D31B5-AC85-4680-9869-45AF22035157}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C87D31B5-AC85-4680-9869-45AF22035157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DBDEE32-DAA4-478E-8FCB-BF3FC5DE7E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DBDEE32-DAA4-478E-8FCB-BF3FC5DE7E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DBDEE32-DAA4-478E-8FCB-BF3FC5DE7E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DBDEE32-DAA4-478E-8FCB-BF3FC5DE7E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DB5B320-2E4A-4B2F-8700-BC55DA079F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB5B320-2E4A-4B2F-8700-BC55DA079F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB5B320-2E4A-4B2F-8700-BC55DA079F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB5B320-2E4A-4B2F-8700-BC55DA079F70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
